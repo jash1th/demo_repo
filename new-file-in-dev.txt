@@ -1,0 +1,10 @@
+This is the new file added in the dev branch
+Adding some more content in dev branch file
+r
+exit
+vi
+q!
+!q
+q!
+ZZZZ
+Zz
